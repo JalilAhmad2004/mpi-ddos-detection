@@ -28,8 +28,7 @@ project/
 ├── machinefile            # MPI machine configuration  
 
 Additional files:  
-- Report.pdf — Final project report  
-- Slides.pptx — Project presentation  
+- Report.pdf — Final project report
 
 ---
 
