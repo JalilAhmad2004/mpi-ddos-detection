@@ -2,7 +2,7 @@
 
 This project implements a distributed DDoS detection and mitigation system using **MPI**, statistical analysis, and machine learning. It was developed as part of the **CS3006 – Parallel and Distributed Computing** course at **FAST-NUCES Islamabad**.
 
-The system analyzes high-rate network traffic in parallel to enable early detection and mitigation of volumetric DDoS attacks.
+The system analyzes high-rate network traffic in parallel to enable early detection and mitigation of volumetric Dos/DDoS attacks.
 
 ---
 
