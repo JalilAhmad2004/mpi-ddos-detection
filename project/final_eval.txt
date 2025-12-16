@@ -1,0 +1,26 @@
+=== FINAL EVALUATION ===
+Detected Attack IPs: 11
+Blocked IPs: 11
+Blocking Effectiveness: 100.00%
+Collateral Damage: 0.00%
+
+--- Detection Evaluation ---
+Total MPI Ranks: 6
+Total Flows: 78
+Max Detection Latency (sec): 0.4056
+MPI Communication Overhead (sec): 0.085672
+Estimated Throughput (flows/sec): 192.30
+
+--- ML Model Evaluation ---
+=== EVALUATION RESULTS ===
+Accuracy  : 1.0000
+Precision : 1.0000
+Recall    : 1.0000
+F1-score  : 1.0000
+Average prediction latency: 0.064450 ms
+Total evaluated samples: 75248
+
+=== CONFUSION MATRIX ===
+[[    1     0     0]
+ [    0 33591     0]
+ [    0     0 41656]]
