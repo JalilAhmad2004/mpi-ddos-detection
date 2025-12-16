@@ -53,7 +53,7 @@ project/
 
 ### Environment Setup
 - Linux-based system recommended  
-- MPI implementation (OpenMPI / MPICH)  
+- MPI implementation (MPICH)  
 - GCC compiler  
 - Python 3.x with required libraries installed  
 
